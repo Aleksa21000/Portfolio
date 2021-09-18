@@ -543,6 +543,7 @@ body{
 /* Article-page */
 #hero .project-description{
   margin-left: 3.5rem;
+  width:50%;
 }
 
 #hero .project-content{
